@@ -11,7 +11,7 @@ int selectionSort(int *vetor, int tamanho){
       }
     }
     if(i != menor){ //caso o elemento analisado não for menor, 
-      troca = vetor[i]; //o menor encontrado assume o indice mais a direita disponível
+      troca = vetor[i]; //o menor encontrado assume o indice mais a esquerda disponível
       vetor[i] = vetor[menor]; // e o processo se repete.
       vetor[menor] = troca;
     }
