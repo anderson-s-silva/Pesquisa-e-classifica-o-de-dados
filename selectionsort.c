@@ -4,15 +4,15 @@
 int selectionSort(int *vetor, int tamanho){
   int menor, troca;
   for(int i = 0; i < tamanho - 1; i++){
-    menor = i;
+    menor = i;//menor recebe o índice mais a esquerda
     for(int j = i + 1; j < tamanho; j++){
-      if(vetor[j] < vetor[menor]){
-        menor = j;
+      if(vetor[j] < vetor[menor]){//se elemento que está sendo analisado for 
+        menor = j;               //menor que o atual menor, o menor é atualizado
       }
     }
-    if(i != menor){
-      troca = vetor[i];
-      vetor[i] = vetor[menor];
+    if(i != menor){ //caso o elemento analisado não for menor, 
+      troca = vetor[i]; //o menor encontrado assume o indice mais a direita disponível
+      vetor[i] = vetor[menor]; // e o processo se repete.
       vetor[menor] = troca;
     }
   }
