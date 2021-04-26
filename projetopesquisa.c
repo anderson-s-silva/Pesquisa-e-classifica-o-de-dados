@@ -34,7 +34,13 @@ typedef struct{
 }ind_sfraco;
 
 int ordenaid(const void * a, const void * b){
-  int r = strcmp((*(indp*)a).id, (*(indp*)b).id);
+  int r;
+  if(a == b)
+    r = 0;
+  if(a > b)
+    r = 1;
+  if(a < b)
+    r = -1;
 
   if(r == 0){
     return 0;
@@ -58,15 +64,29 @@ void conteudo(FILE* entrada, arqdados aux, indp* prim, ind_sforte *forte, ind_sf
     strncpy(fraco[i].cidade, aux.cidade, 21);
     i++;
   }//end while
-  qsort(prim, 500, sizeof(indp), ordenaid);//ordenacao do id no indice primario por quicksort
-  qsort(fraco, 500, sizeof(ind_sfraco), ordenaid);//ordenacao do id no indice secundario por quicksort
-  for(int c = 0; c < 500; c++){
-    printf("%d\n", prim[c].id);
+  qsort(prim->id, 500, sizeof(indp), ordenaid);//ordenacao do id no indice primario por quicksort
+  qsort(fraco->id, 500, sizeof(ind_sfraco), ordenaid);//ordenacao do id no indice secundario por quicksort
+  // for(int c = 0; c < 500; c++){
+  //   printf("%d\n", prim[c].id);
+  // }
+}
+
+void arqprimario(FILE* primario, indp* prim){
+  for(int i = 0; i < 500; i++){
+    fprintf(primario, "%03d\t%05d\n", prim[i].id, i*75);
   }
 }
 
-void arqdadosrimario(FILE* primario, indp* prim){
+void arqforte(FILE* secundarioforte, ind_sforte *forte){
+  for(int i = 0; i < 500; i++){
+    fprintf(secundarioforte, "%s\t%05d\n", forte[i].nome, i*75);
+  }
+}
 
+void arqfraco(FILE* secundariofraco, ind_sfraco *fraco){
+  for(int i = 0; i < 500; i++){
+    fprintf(secundariofraco, "%s\t%05d\n", fraco[i].cidade, fraco[i].id);
+  }
 }
 
 
@@ -91,7 +111,7 @@ int main(int argc, char const *argv[]) {
     printf("erro ao ler arquivo");
   }else{
     conteudo(entrada, aux, &prim, &forte, &fraco);
-    arqdadosrimario(primario, &prim);
+    arqprimario(primario, &prim);
     // cidadenome(entrada, primario, secundarioforte, secundariofraco, aux);
   }//else
   return 0;
