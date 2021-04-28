@@ -1,0 +1,492 @@
+Guaruja             	001
+Cabo Frio           	002
+Rio Claro           	003
+Cuiaba              	004
+Sao Carlos          	005
+Parnamirim          	006
+Lages               	007
+Jundiai             	008
+Palmas              	009
+Nilopolis           	010
+Valparaiso de Goias 	011
+Braganca Paulista   	012
+Cabo de Santo Agosti	013
+Barra Mansa         	014
+Taubate             	015
+Fortaleza           	016
+Ananindeua          	017
+Belo Horizonte      	018
+Guarulhos           	019
+Criciuma            	020
+Cascavel            	021
+Cariacica           	022
+Taubate             	023
+Caxias do Sul       	024
+Volta Redonda       	025
+Bauru               	026
+Caucaia             	027
+Pelotas             	028
+Ipatinga            	029
+Jequie              	030
+Maua                	031
+Pelotas             	032
+Juazeiro do Norte   	033
+Cotia               	034
+Guarapuava          	035
+Itapetininga        	036
+Belem               	037
+Petrolina           	038
+Salvador            	039
+Belo Horizonte      	040
+Petrolina           	041
+Itapetininga        	042
+Jundiai             	043
+Alagoinhas          	044
+Americana           	045
+Maringa             	046
+Moji Das Cruzes     	047
+Camaragibe          	048
+Valparaiso de Goias 	049
+Uberlandia          	050
+Cuiaba              	051
+Belem               	052
+Divinopolis         	053
+Caxias do Sul       	054
+Sorocaba            	055
+Sao Goncalo         	056
+Guarulhos           	057
+Diadema             	058
+Sao Jose de Ribamar 	059
+Joao Pessoa         	060
+Araraquara          	061
+Maceio              	062
+Jau                 	063
+Vitoria             	064
+Sao Jose do Rio Pret	065
+Sao Goncalo         	066
+Boa Vista           	067
+Alvorada            	068
+Palhoca             	069
+Santo Andre         	070
+Teofilo Otoni       	071
+Londrina            	072
+Sao Caetano do Sul  	073
+Itajai              	074
+Parnamirim          	075
+Parauapebas         	076
+Sao Jose            	077
+Itajai              	078
+Salvador            	079
+Itabuna             	080
+Luziania            	081
+Itajai              	082
+Taboao da Serra     	083
+Maraba              	084
+Itapetininga        	085
+Lages               	086
+Ribeirao Das Neves  	087
+Guaruja             	088
+Sao Jose do Rio Pret	089
+Palhoca             	090
+Angra Dos Reis      	091
+Presidente Prudente 	092
+Lauro de Freitas    	093
+Ferraz de Vasconcelo	094
+Santa Luzia         	095
+Alvorada            	096
+Caxias              	097
+Limeira             	098
+Foz do Iguacu       	099
+Pindamonhangaba     	100
+Alvorada            	101
+Rondonopolis        	102
+Joao Pessoa         	103
+Abaetetuba          	104
+Ferraz de Vasconcelo	105
+Salvador            	106
+Niteroi             	107
+Santo Andre         	108
+Colombo             	109
+Sao Caetano do Sul  	110
+Sumare              	111
+Foz do Iguacu       	112
+Campinas            	113
+Sao Jose Dos Pinhais	114
+Suzano              	115
+Campo Grande        	116
+Palhoca             	117
+Macapa              	118
+Jaboatao Dos Guarara	119
+Arapiraca           	120
+Ribeirao Preto      	121
+Campo Grande        	122
+Paranagua           	123
+Campinas            	124
+Joao Pessoa         	125
+Caxias do Sul       	126
+Arapiraca           	127
+Contagem            	128
+Pindamonhangaba     	129
+Caruaru             	130
+Porto Alegre        	131
+Camacari            	132
+Marilia             	133
+Mogi Guacu          	134
+Parauapebas         	135
+Lauro de Freitas    	136
+Ilheus              	137
+Varzea Grande       	138
+Florianopolis       	139
+Ferraz de Vasconcelo	140
+Sao Paulo           	141
+Belem               	142
+Volta Redonda       	143
+Jundiai             	144
+Criciuma            	145
+Niteroi             	146
+Uberaba             	147
+Teofilo Otoni       	148
+Sao Jose Dos Pinhais	149
+Petropolis          	150
+Pelotas             	151
+Belford Roxo        	152
+Valparaiso de Goias 	153
+Juiz de Fora        	154
+Juazeiro do Norte   	155
+Montes Claros       	156
+Maceio              	157
+Jacarei             	158
+Nova Iguacu         	159
+Teofilo Otoni       	160
+Aracatuba           	161
+Aparecida de Goiania	162
+Curitiba            	163
+Ipatinga            	164
+Palmas              	165
+Lages               	166
+Juazeiro            	167
+Hortolandia         	168
+Americana           	169
+Bauru               	170
+Alvorada            	171
+Passo Fundo         	172
+Curitiba            	173
+Santo Andre         	174
+Santarem            	175
+Ponta Grossa        	176
+Brasilia            	177
+Juiz de Fora        	178
+Palhoca             	179
+Praia Grande        	180
+Porto Velho         	181
+Queimados           	182
+Olinda              	183
+Camacari            	184
+Itu                 	185
+Lauro de Freitas    	186
+Macapa              	187
+Sao Jose do Rio Pret	188
+Boa Vista           	189
+Londrina            	190
+Varzea Grande       	191
+Sao Carlos          	192
+Jau                 	193
+Hortolandia         	194
+Uberlandia          	195
+Vila Velha          	196
+Sao Jose do Rio Pret	197
+Porto Alegre        	198
+Sao Jose Dos Pinhais	199
+Valparaiso de Goias 	200
+Sao Leopoldo        	201
+Castanhal           	202
+Franca              	203
+Carapicuiba         	204
+Belo Horizonte      	205
+Itapetininga        	206
+Ponta Grossa        	207
+Itapevi             	208
+Juiz de Fora        	209
+Imperatriz          	210
+Cuiaba              	211
+Nova Iguacu         	212
+Suzano              	213
+Sao Caetano do Sul  	214
+Pelotas             	215
+Foz do Iguacu       	216
+Recife              	217
+Sao Joao de Meriti  	218
+Contagem            	219
+Sao Jose de Ribamar 	220
+Brasilia            	221
+Barreiras           	222
+Presidente Prudente 	223
+Maua                	224
+Bauru               	225
+Santo Andre         	226
+Rondonopolis        	227
+Paulista            	228
+Araraquara          	229
+Santo Andre         	230
+Embu                	231
+Uberlandia          	232
+Mage                	233
+Sao Carlos          	234
+Rio Claro           	235
+Maracanau           	236
+Santa Barbara Doest 	237
+Vila Velha          	238
+Taboao da Serra     	239
+Teresina            	240
+Mossoro             	241
+Sao Carlos          	242
+Rio Branco          	243
+Santa Luzia         	244
+Linhares            	245
+Rio Claro           	246
+Sao Jose Dos Pinhais	247
+Barreiras           	248
+Vitoria da Conquista	249
+Joinville           	250
+Itapevi             	251
+Feira de Santana    	252
+Santos              	253
+Maua                	254
+Petropolis          	255
+Salvador            	256
+Imperatriz          	257
+Cotia               	258
+Betim               	259
+Uberlandia          	260
+Chapeco             	261
+Pindamonhangaba     	262
+Sao Joao de Meriti  	263
+Macae               	264
+Luziania            	265
+Franca              	266
+Sao Jose de Ribamar 	267
+Betim               	268
+Maringa             	269
+Anapolis            	270
+Hortolandia         	271
+Caucaia             	272
+Sao Jose Dos Pinhais	273
+Novo Hamburgo       	274
+Colombo             	275
+Guarapuava          	276
+Palhoca             	277
+Viamao              	278
+Sao Luis            	279
+Ananindeua          	280
+Vitoria             	281
+Mogi Guacu          	282
+Palhoca             	283
+Guarulhos           	284
+Rio Verde           	285
+Maringa             	286
+Teresina            	287
+Sao Joao de Meriti  	288
+Alvorada            	289
+Guarulhos           	290
+Sao Caetano do Sul  	291
+Brasilia            	292
+Castanhal           	293
+Vitoria             	294
+Barreiras           	295
+Taubate             	296
+Blumenau            	297
+Jaragua do Sul      	298
+Criciuma            	299
+Ananindeua          	300
+Aracaju             	301
+Varzea Grande       	302
+Santa Luzia         	303
+Caxias do Sul       	304
+Sao Paulo           	305
+Hortolandia         	306
+Londrina            	307
+Rio Verde           	308
+Joinville           	309
+Araraquara          	310
+Angra Dos Reis      	311
+Guarulhos           	312
+Sao Carlos          	313
+Franco da Rocha     	314
+Foz do Iguacu       	315
+Petrolina           	316
+Sao Jose do Rio Pret	317
+Criciuma            	318
+Jau                 	319
+Sao Jose Dos Campos 	320
+Guaruja             	321
+Sobral              	322
+Criciuma            	323
+Contagem            	324
+Araraquara          	325
+Franco da Rocha     	326
+Santa Maria         	327
+Teresina            	328
+Guarulhos           	329
+Mogi Guacu          	330
+Vila Velha          	331
+Pocos de Caldas     	332
+Caxias do Sul       	333
+Parnaiba            	334
+Alagoinhas          	335
+Jaboatao Dos Guarara	336
+Itabuna             	337
+Campinas            	338
+Salvador            	339
+Taboao da Serra     	340
+Santos              	341
+Sao Jose            	342
+Sao Goncalo         	343
+Parnamirim          	344
+Cuiaba              	345
+Queimados           	346
+Sao Jose            	347
+Colombo             	348
+Suzano              	349
+Nilopolis           	350
+Blumenau            	351
+Aracaju             	352
+Pindamonhangaba     	353
+Rio de Janeiro      	354
+Petropolis          	355
+Timon               	356
+Juazeiro do Norte   	357
+Jequie              	358
+Americana           	359
+Guaruja             	360
+Bauru               	361
+Campo Grande        	362
+Ipatinga            	363
+Dourados            	364
+Carapicuiba         	365
+Vitoria             	366
+Sao Jose de Ribamar 	367
+Santo Andre         	368
+Florianopolis       	369
+Nossa Senhora do Soc	370
+Dourados            	371
+Itapecerica da Serra	372
+Curitiba            	373
+Curitiba            	374
+Sao Jose Dos Campos 	375
+Petrolina           	376
+Sumare              	377
+Rio Branco          	378
+Nova Iguacu         	379
+Paulista            	380
+Jequie              	381
+Barra Mansa         	382
+Rio Branco          	383
+Florianopolis       	384
+Itapevi             	385
+Juazeiro do Norte   	386
+Hortolandia         	387
+Santa Barbara Doest 	388
+Lages               	389
+Cabo Frio           	390
+Paulista            	391
+Santa Barbara Doest 	392
+Campo Grande        	393
+Nossa Senhora do Soc	394
+Santa Barbara Doest 	395
+Teresopolis         	396
+Juazeiro do Norte   	397
+Ipatinga            	398
+Blumenau            	399
+Brasilia            	400
+Juazeiro            	401
+Ponta Grossa        	402
+Cariacica           	403
+Dourados            	404
+Itapevi             	405
+Maracanau           	406
+Teresina            	407
+Belem               	408
+Cariacica           	409
+Foz do Iguacu       	410
+Parnamirim          	411
+Volta Redonda       	412
+Jacarei             	413
+Petrolina           	414
+Palhoca             	415
+Manaus              	416
+Jequie              	417
+Ponta Grossa        	418
+Joao Pessoa         	419
+Viamao              	420
+Anapolis            	421
+Contagem            	422
+Ipatinga            	423
+Guarapuava          	424
+Castanhal           	425
+Londrina            	426
+Florianopolis       	427
+Ferraz de Vasconcelo	428
+Barueri             	429
+Passo Fundo         	430
+Vitoria             	431
+Chapeco             	432
+Rondonopolis        	433
+Porto Velho         	434
+Moji Das Cruzes     	435
+Salvador            	436
+Praia Grande        	437
+Sao Caetano do Sul  	438
+Juazeiro            	439
+Sao Leopoldo        	440
+Guarapuava          	441
+Fortaleza           	442
+Guarulhos           	443
+Osasco              	444
+Petropolis          	445
+Jaragua do Sul      	446
+Sao Carlos          	447
+Sumare              	448
+Jundiai             	449
+Belo Horizonte      	450
+Luziania            	451
+Ipatinga            	452
+Sao Luis            	453
+Jequie              	454
+Porto Velho         	455
+Rondonopolis        	456
+Natal               	457
+Viamao              	458
+Linhares            	459
+Sao Goncalo         	460
+Belford Roxo        	461
+Osasco              	462
+Brasilia            	463
+Porto Velho         	464
+Governador Valadares	465
+Montes Claros       	466
+Cariacica           	467
+Ribeirao Das Neves  	468
+Macae               	469
+Goiania             	470
+Cabo Frio           	471
+Maua                	472
+Criciuma            	473
+Campina Grande      	474
+Novo Hamburgo       	475
+Contagem            	476
+Volta Redonda       	477
+Macae               	478
+Lauro de Freitas    	479
+Maraba              	480
+Jaboatao Dos Guarara	481
+Joao Pessoa         	482
+Duque de Caxias     	483
+Palmas              	484
+Sao Leopoldo        	485
+Teofilo Otoni       	486
+Indaiatuba          	487
+Sao Jose Dos Campos 	488
+Araguaina           	489
+Barueri             	490
+Nossa Senhora do Soc	491
+Jequie       
