@@ -43,11 +43,12 @@ typedef struct{
   char rua[26];
 }complemento;
 
+//struct que referencia as caracteristicas da arvoreb
 struct NoArvoreB {
   int val[MAX + 1], count;
   struct NoArvoreB *link[MAX + 1];
 };
-
+//declaração das raizes 
 struct NoArvoreB *raiz;
 
 // Cria o nó
